@@ -2,6 +2,8 @@ title: 我的博客
 description: 个人技术博客
 author:
   name: Daren-dzk
-theme: minima  
+theme: minima
 plugins:
   - jekyll-feed
+url: "https://Daren-dzk.github.io"
+baseurl: "/blog"
